@@ -1,0 +1,18 @@
+.image {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    margin-left: .8em;
+}
+.image:hover{
+    border: 2px solid white;
+}
+h3{
+    color:  hsl(360, 71%, 66%);
+}
+h4, p{
+    color: white;
+}
+h3, h4{
+    margin-right: 0.8em;
+}
